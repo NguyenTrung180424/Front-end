@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="/Css/minimal-table (1).css">
+
+    <title>Planet data</title>
+</head>
+<body>
+    <p>
+        <a href="index.html">Trang chủ</a>
+        <a href="list.html">Trang danh sách</a>
+        <a href="Letter.html">Trang thư</a>
+        <a href="Table.html">Trang bảng biểu</a>
+        <a href="Planet.html">Trang planet planetdata</a>
+    </p>
+    <table class="Table">
+        <thead>
+            <tr>
+                <th>    </th>
+                <th>Name</th>
+                <th>Mass<br>(10<sup>24</sup>kg)</th>
+                <th>Diameter<br>(km)</th>
+                <th>Density <br>(kg/m<sup>3</sup>)</th>
+                <th>Gravity <br>(m/s<sup>2</sup>)</th>
+                <th>Lenghth <br>of day <br>(hours)</th>
+                <th>Distance <br>from Sun <br>(10<sup>6</sup>km)</th>
+                <th>Mean <br>Temperature <br>(Độ C)</th>
+                <th>Number <br>of<br>moons </th>
+                <th>Notes</th>       
+            </tr>
+        </thead>
+        <tbody>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr> 
+        </tbody>
+    </table>
+    
+</body>
+</html>
