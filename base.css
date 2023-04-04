@@ -1,0 +1,105 @@
+.cotainer{
+    display: flex;
+    flex-direction: row;
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+}
+.logo {
+    display: flex;
+    margin-left: -200px;
+    flex-shrink: 3;
+}
+
+.top .menu ul{
+    display: flex;
+    align-content: end;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.top .menu ul li {
+    list-style: none;
+    display: inline;   
+    margin-right: 50px;
+}
+.banner{
+    display: flex;
+}
+.category-1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.text-1{
+    position:absolute;
+    left : 200px;
+    bottom: -485px;
+}
+.text-2{
+    position:absolute;
+    left : 660px;
+    bottom: -478px;
+}
+.text-3{
+    position:absolute;
+    left : 1100px;
+    bottom: -478px;
+}
+.text-4{
+    position:absolute;
+    left : 1545px;
+    bottom: -478px;
+}
+.text-5{
+    margin-left: 70px;
+    font-weight: normal;
+}
+.category-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: red;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.text-6{
+    position:absolute;
+    left : 300px;
+    bottom: -1000px;
+    color: white;
+    
+}
+.text-7{
+    position:absolute;
+    left : 860px;
+    bottom: -1000px;
+    color: rgb(255, 255, 255);
+    
+}
+.text-8{
+    position:absolute;
+    left : 1470px;
+    bottom: -1000px;
+    color: white;
+    
+}
+.box{
+    display: flex;
+    background-color: yellow;
+    flex-direction: row;
+    
+}
+.item-1{
+    list-style: none;
+    margin-left: 50px;
+}
+.item-2{
+    list-style: none;
+    margin-left: 355px;
+}
+.item-3{
+    margin-top: 15px;
+    margin-left: 305px;
+}
